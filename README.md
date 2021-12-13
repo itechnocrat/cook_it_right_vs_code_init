@@ -133,7 +133,7 @@
     //   "statusBar.border": "#525968",
     //   "tab.border": "#525968",
     //   "titleBar.border": "#525968"
-    },
+    // },
     // 
     "sortJSON.contextMenu": {
         "sortJSON": true,
