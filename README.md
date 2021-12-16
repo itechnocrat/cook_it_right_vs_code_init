@@ -71,11 +71,11 @@
     // 
     "editor.guides.indentation": false,
     // 
-    "bracket-pair-colorizer-2.scopeLineRelativePosition": true,
+    // "bracket-pair-colorizer-2.scopeLineRelativePosition": true,
     // "bracket-pair-colorizer-2.showBracketsInGutter": true,
-    "bracket-pair-colorizer-2.showBracketsInRuler": false,
-    "bracket-pair-colorizer-2.showHorizontalScopeLine": false,
-    "bracket-pair-colorizer-2.showVerticalScopeLine": true,
+    // "bracket-pair-colorizer-2.showBracketsInRuler": false,
+    // "bracket-pair-colorizer-2.showHorizontalScopeLine": false,
+    // "bracket-pair-colorizer-2.showVerticalScopeLine": true,
     // 
     "editor.matchBrackets": "never",
     // 
@@ -152,5 +152,9 @@
     // 
     "files.insertFinalNewline": true,
     "files.trimFinalNewlines": true,
+    // 
+    "editor.bracketPairColorization.enabled": true,
+    "editor.guides.bracketPairs":"active",
+    "editor.guides.bracketPairsHorizontal": false,
 }
 ```
