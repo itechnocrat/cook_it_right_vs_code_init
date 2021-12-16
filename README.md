@@ -149,5 +149,8 @@
     },
     // 
     "editor.unicodeHighlight.ambiguousCharacters": false,
+    // 
+    "files.insertFinalNewline": true,
+    "files.trimFinalNewlines": true,
 }
 ```
