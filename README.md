@@ -147,5 +147,7 @@
         "sortJSONValues": false,
         "sortJSONValuesReverse": false
     },
+    // 
+    "editor.unicodeHighlight.ambiguousCharacters": false,
 }
 ```
