@@ -12,64 +12,64 @@
 
 ```jsonc
 {
-    "window.zoomLevel": 3,
-    "workbench.startupEditor": "none",
+    // "window.zoomLevel": 3,
+    // "workbench.startupEditor": "none",
     // 
     // "editor.hover.enabled": false,
     // 
-    "security.workspace.trust.banner": "never",
-    "security.workspace.trust.emptyWindow": false,
-    "security.workspace.trust.enabled": false,
-    "security.workspace.trust.startupPrompt": "never",
+    // "security.workspace.trust.banner": "never",
+    // "security.workspace.trust.emptyWindow": false,
+    // "security.workspace.trust.enabled": false,
+    // "security.workspace.trust.startupPrompt": "never",
     // 
-    "workbench.settings.editor": "json",
+    // "workbench.settings.editor": "json",
     // 
-    "extensions.ignoreRecommendations": true,
+    // "extensions.ignoreRecommendations": true,
     // 
-    "workbench.editor.enablePreview": false,
+    // "workbench.editor.enablePreview": false,
     // 
-    "workbench.editor.closeEmptyGroups": false,
+    // "workbench.editor.closeEmptyGroups": false,
     // 
-    "editor.mouseWheelZoom": true,
+    // "editor.mouseWheelZoom": true,
     // 
-    "breadcrumbs.enabled": false,
+    // "breadcrumbs.enabled": false,
     // 
-    "editor.minimap.enabled": false,
+    // "editor.minimap.enabled": false,
     // 
-    "workbench.editor.tabCloseButton": "off",
+    // "workbench.editor.tabCloseButton": "off",
     // 
-    "editor.hideCursorInOverviewRuler": true,
+    // "editor.hideCursorInOverviewRuler": true,
     // 
-    "editor.overviewRulerBorder": false,
+    // "editor.overviewRulerBorder": false,
     // 
-    "editor.scrollbar.vertical": "hidden",
-    "editor.scrollbar.horizontal": "hidden",
+    // "editor.scrollbar.vertical": "hidden",
+    // "editor.scrollbar.horizontal": "hidden",
     // 
-    "editor.multiCursorModifier": "ctrlCmd",
+    // "editor.multiCursorModifier": "ctrlCmd",
     // 
-    "editor.mouseWheelScrollSensitivity": 0.5,
+    // "editor.mouseWheelScrollSensitivity": 0.5,
     // 
-    "editor.renderWhitespace": "all",
+    // "editor.renderWhitespace": "all",
     // 
-    "editor.renderControlCharacters": true,
+    // "editor.renderControlCharacters": true,
     // 
     // "editor.insertSpaces": true,
     // "editor.tabSize": 4,
     // 
-    "editor.detectIndentation": false,
+    // "editor.detectIndentation": false,
     // 
-    "editor.fontFamily": "Fira Code",
-    "editor.fontLigatures": true,
+    // "editor.fontFamily": "Fira Code",
+    // "editor.fontLigatures": true,
     // 
-    "editor.fontSize": 14,
+    // "editor.fontSize": 14,
     // 
-    "editor.fontWeight": "300",
+    // "editor.fontWeight": "300",
     // 
-    "editor.lineHeight": 1.6,
+    // "editor.lineHeight": 1.6,
     // 
-    "editor.renderLineHighlight": "none",
+    // "editor.renderLineHighlight": "none",
     // 
-    "editor.guides.indentation": false,
+    // "editor.guides.indentation": false,
     // 
     // "bracket-pair-colorizer-2.scopeLineRelativePosition": true,
     // "bracket-pair-colorizer-2.showBracketsInGutter": true,
@@ -77,47 +77,47 @@
     // "bracket-pair-colorizer-2.showHorizontalScopeLine": false,
     // "bracket-pair-colorizer-2.showVerticalScopeLine": true,
     // 
-    "editor.matchBrackets": "never",
+    // "editor.matchBrackets": "never",
     // 
-    "editor.occurrencesHighlight": false,
+    // "editor.occurrencesHighlight": false,
     // 
-    "editor.selectionHighlight": false,
+    // "editor.selectionHighlight": false,
     // 
-    "editor.cursorStyle": "line-thin",
-    "editor.cursorBlinking": "expand",
+    // "editor.cursorStyle": "line-thin",
+    // "editor.cursorBlinking": "expand",
     // 
-    "terminal.integrated.fontFamily": "Larabiefont",
-    "terminal.integrated.fontSize": 16,
-    "terminal.integrated.fontWeight": "300",
-    "terminal.integrated.cursorBlinking": true,
-    "terminal.integrated.cursorStyle": "line",
+    // "terminal.integrated.fontFamily": "Larabiefont",
+    // "terminal.integrated.fontSize": 16,
+    // "terminal.integrated.fontWeight": "300",
+    // "terminal.integrated.cursorBlinking": true,
+    // "terminal.integrated.cursorStyle": "line",
     //
-    "overtype.labelInsertMode": "Ins",
-    "overtype.labelOvertypeMode": "Over",
-    "overtype.secondaryCursorStyle": "underline",
-    "overtype.perEditor": true,
+    // "overtype.labelInsertMode": "Ins",
+    // "overtype.labelOvertypeMode": "Over",
+    // "overtype.secondaryCursorStyle": "underline",
+    // "overtype.perEditor": true,
     // 
-    "cSpell.language": "en,ru",
-    "cSpell.allowCompoundWords": true,
+    // "cSpell.language": "en,ru",
+    // "cSpell.allowCompoundWords": true,
     // 
-    "projectManager.tags": [
-    "C",
-    "C++",
-    "Django",
-    "Gatsby",
-    "JavaScript",
-    "Personal",
-    "Python",
-    "React",
-    "Tailwind",
-    "Work",
-    ],
+    // "projectManager.tags": [
+    // "C",
+    // "C++",
+    // "Django",
+    // "Gatsby",
+    // "JavaScript",
+    // "Personal",
+    // "Python",
+    // "React",
+    // "Tailwind",
+    // "Work",
+    // ],
     // 
-    "explorer.openEditors.visible": 0,
+    // "explorer.openEditors.visible": 0,
     // 
-    "explorer.compactFolders": false,
+    // "explorer.compactFolders": false,
     // 
-    "workbench.tree.indent": 10,
+    // "workbench.tree.indent": 10,
     // 
     // "workbench.colorTheme": "Ayu Mirage Bordered",
     // "workbench.iconTheme": "ayu",
@@ -135,26 +135,26 @@
     //   "titleBar.border": "#525968"
     // },
     // 
-    "sortJSON.contextMenu": {
-        "sortJSON": true,
-        "sortJSONAlphaNum": false,
-        "sortJSONAlphaNumReverse": false,
-        "sortJSONKeyLength": false,
-        "sortJSONKeyLengthReverse": false,
-        "sortJSONReverse": false,
-        "sortJSONType": false,
-        "sortJSONTypeReverse": false,
-        "sortJSONValues": false,
-        "sortJSONValuesReverse": false
-    },
+    // "sortJSON.contextMenu": {
+    //     "sortJSON": true,
+    //     "sortJSONAlphaNum": false,
+    //     "sortJSONAlphaNumReverse": false,
+    //     "sortJSONKeyLength": false,
+    //     "sortJSONKeyLengthReverse": false,
+    //     "sortJSONReverse": false,
+    //     "sortJSONType": false,
+    //     "sortJSONTypeReverse": false,
+    //     "sortJSONValues": false,
+    //     "sortJSONValuesReverse": false
+    // },
     // 
-    "editor.unicodeHighlight.ambiguousCharacters": false,
+    // "editor.unicodeHighlight.ambiguousCharacters": false,
     // 
-    "files.insertFinalNewline": true,
-    "files.trimFinalNewlines": true,
+    // "files.insertFinalNewline": true,
+    // "files.trimFinalNewlines": true,
     // 
-    "editor.bracketPairColorization.enabled": true,
-    "editor.guides.bracketPairs":"active",
-    "editor.guides.bracketPairsHorizontal": false,
+    // "editor.bracketPairColorization.enabled": true,
+    // "editor.guides.bracketPairs":"active",
+    // "editor.guides.bracketPairsHorizontal": false,
 }
 ```
