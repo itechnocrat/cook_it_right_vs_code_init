@@ -71,12 +71,6 @@
     // 
     // "editor.guides.indentation": false,
     // 
-    // "bracket-pair-colorizer-2.scopeLineRelativePosition": true,
-    // "bracket-pair-colorizer-2.showBracketsInGutter": true,
-    // "bracket-pair-colorizer-2.showBracketsInRuler": false,
-    // "bracket-pair-colorizer-2.showHorizontalScopeLine": false,
-    // "bracket-pair-colorizer-2.showVerticalScopeLine": true,
-    // 
     // "editor.matchBrackets": "never",
     // 
     // "editor.occurrencesHighlight": false,
@@ -156,5 +150,9 @@
     // "editor.bracketPairColorization.enabled": true,
     // "editor.guides.bracketPairs":"active",
     // "editor.guides.bracketPairsHorizontal": false,
+    // 
+    // "editor.snippetSuggestions": "top",
+    // "editor.suggest.localityBonus": true,
+    // "editor.tabCompletion": "onlySnippets",
 }
 ```
